@@ -27,10 +27,10 @@ author:
   name             : "YuZhaohui"
   pronouns         : # example: "she/her"  
   bio              : "I’m a first year MS student from School of Computer Science and Technology, Beijing Jiaotong University. My research interest includes Time Series Anomaly Detection."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing Jiaotong University"
+  employer         : "Beijing Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "25120312@bjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
